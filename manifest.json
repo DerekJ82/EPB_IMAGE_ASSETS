@@ -1,0 +1,14 @@
+ {
+    "name": "EPB Hub",
+    "short_name": "EPB Hub",
+    "display": "standalone",
+    "theme_color": "#4b286d",
+    "background_color": "#4b286d",
+    "icons": [
+      {
+        "src": "https://raw.githubusercontent.com/DerekJ82/EPB_IMAGE_ASSETS/main/EPB_HUB.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      }
+    ]
+  }
